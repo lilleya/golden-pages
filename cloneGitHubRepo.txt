@@ -1,0 +1,4 @@
+git clone git://github.com/tcf2014Team7/golden-pages
+git remote set-url origin https://github.com/tcd2014Team7/golden-pages.git
+git push origin master - you may be asked for your github credentials with this command
+git push
